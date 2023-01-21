@@ -1,4 +1,4 @@
-# sms-bomber.py
+# sms-bomber
 Hey! This is a small sms bomber, the number of
 sms sent per second depends on the speed
 of your internet. If you use this bomber
