@@ -5,7 +5,7 @@ of your internet. If you use this bomber
 at the same time by several people, you
 can easily put the phone!
 
-# Ravan
+# Sms-Bomber
 
 ### [+] Created By <a href="https://github.com/pankajmandariya07">Guccifer Pankaj</a>
 
