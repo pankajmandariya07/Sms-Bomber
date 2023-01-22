@@ -50,4 +50,3 @@ def send(num, counter, slep):
 
 banner()
 send(input("Enter Target Number : "), input("Enter Number of Messages : "), 1)       
-Footer
