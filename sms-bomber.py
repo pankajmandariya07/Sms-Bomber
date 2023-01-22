@@ -25,8 +25,6 @@ def banner():
                           With : TEAM BLACK DEVIL(ANONYMOUS)                                                                                          >
     Note : I won't be responsible for any damage caused by this script, Use at your own risk
 """)
-#http://m.naaptol.com/faces/jsp/ajax/ajax.jsp?actionname=checkMobileUserExists&mobile=
-
 #https://securedapi.confirmtkt.com/api/platform/register?mobileNumber=
 
 #http://t.justdial.com/api/india_api_write/10aug2016/sendvcode.php?mobile=
