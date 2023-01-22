@@ -33,7 +33,6 @@ def banner():
 
 def send(num, counter, slep):
     url1 = ["https://securedapi.confirmtkt.com/api/platform/register?mobileNumber=","https://m.naaptol.com/faces/jsp/ajax/ajax.jsp?actionname=checkMob>
-    #url="https://m.naaptol.com/faces/jsp/ajax/ajax.jsp?actionname=checkMobileUserExists&mobile="
     data={"phone":num}
     x=y=0
     for y in range(int(counter)):
