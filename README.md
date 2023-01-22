@@ -15,14 +15,14 @@ can easily put the phone!
 ### [+] Installation
 
 ```apt install git ```
-```git clone https://github.com/pankajmandariya07/sms-bomber.git```
-```cd sms-bomber```
-```python sms-bomber.py[WORKING]```
+```git clone https://github.com/pankajmandariya07/Sms-Bomber.git```
+```cd Sms-Bomber```
+```python Sms-Bomber.py[WORKING]```
 ### Dependencies
 * to run this program make sure you've successfully installed or run tor in termux 
 ### Or, Use Single Command
 ```
-pkg install git && pkg install python && git clone https://github.com/pankajmandariya07/sms-bomber.git && cd sms-bomber && python sms-bomber.py
+pkg install git && pkg install python && git clone https://github.com/pankajmandariya07/Sms-Bomber.git && cd Sms-Bomber && python Sms-Bomber.py
 ```
 ### Features:
 1. Unlimited Otp Bombing
